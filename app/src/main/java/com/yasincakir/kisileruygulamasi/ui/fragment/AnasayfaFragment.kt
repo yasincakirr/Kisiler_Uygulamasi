@@ -10,6 +10,7 @@ import androidx.appcompat.widget.LinearLayoutCompat
 import androidx.appcompat.widget.SearchView
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import com.yasincakir.kisileruygulamasi.R
 import com.yasincakir.kisileruygulamasi.data.entity.Kisiler
 import com.yasincakir.kisileruygulamasi.databinding.FragmentAnasayfaBinding
